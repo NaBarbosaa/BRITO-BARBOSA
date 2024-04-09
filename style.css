@@ -11,11 +11,137 @@
     align-items: center;
     padding: 24px 0;
 }
-.cabecalho-lista-item{ 
-display:inline-block ;
-margin:0 16px;
+
+.imagem-1{
+    width: 300px;
+    height:300px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.imagem-2{
+    width: 400px;
+    height:700px ;
+    margin: 0 40px;
+    padding: 0px 40;
+    
 }
 
-.BRITOBARBOSA-imagem{
-    width: 25%;
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 16px;
+
+}
+
+.brito{
+    background-color: #000000;
+    color: #f3c631;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.brito-div-conteudo{
+    width: 35%;
+
+}
+.brito-titulo{
+    padding: 24px 0;
+}
+.texto-1 {
+    color: #f3c631;
+}
+.texto-2 {
+    color: #f3c631;
+}
+.joias-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #f3c631;
+
+}
+
+.joias-imagem1 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem2 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem3 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem4 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem5 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem6 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem7 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem8 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem9 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem10 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem11 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+.joias-imagem812 {
+    width: 200px;
+    height:200px ;
+    margin: 0 0px;
+    padding: 24px 0;
+}
+
+.rodape{
+    background-color: black;
+    color: #f3c631;
+    text-align: right;
+    padding: 24px 0;
+    font-size:12px;
 }
